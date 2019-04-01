@@ -18,7 +18,7 @@ This tool is for testing and educational purposes only. Any other usage for this
 
 ## Interesting Read
 
-https://www.securityweek.com/hackers-target-cisco-routers-recently-patched-flaws
+https://www.redteam-pentesting.de/en/advisories/rt-sa-2018-002/-cisco-rv320-unauthenticated-configuration-export
 
 
 
